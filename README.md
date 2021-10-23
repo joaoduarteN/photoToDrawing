@@ -8,4 +8,4 @@ Take a look at this example!
 ![image](rockInRioDraw.jpeg)
 
 2)Photo after running the program
-![image](rockInRio.jpeg)
+![image](rockInRio.jpg)
